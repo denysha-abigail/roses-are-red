@@ -15,7 +15,7 @@ Selecting the "Get Started" button on the home screen page will redirect you to 
 > Note: Clicking the "Remove" button located on each activity card in your Itinerary Page will delete that specific activity from your itinerary list. The triangular danger icon on the right-hand corner of your screen will prompt you to select whether you want to delete the entire current activity for the selected date or range of dates. 
 
 ## Website:
-Visit [Roses are Red](https://beimy.github.io/Roses-Are-Red/) today to begin planning your date!
+Visit [Roses are Red](https://denysha-abigail.github.io/roses-are-red/) today to begin planning your date!
 
 ## Preview:
 ![screenrecording](Screencastify_gif_here)

@@ -116,10 +116,10 @@ function buildActivityCard_Event(activity_Obj) {
     $img.attr('src', `${activity_Obj.img}`);
     $card.append($img);
     $col_sm_7 = $('<div class="col-sm-7">');
-    $name = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-name">${activity_Obj.name}</h4>`);
-    $time = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-time">${activity_Obj.time}</h4>`);
-    $venue = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-venue">${activity_Obj.venue}</h4>`);
-    $address = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-address">${activity_Obj.address}</h4>`);
+    $name = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-name"><span class="has-text-dark-red">Event Name:</span> ${activity_Obj.name}</h4>`);
+    $time = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-time"><span class="has-text-dark-red">Event Time:</span> ${activity_Obj.time}</h4>`);
+    $venue = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-venue"><span class="has-text-dark-red">Event Venue:</span> ${activity_Obj.venue}</h4>`);
+    $address = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-address"><span class="has-text-dark-red">Event Address:</span> ${activity_Obj.address}</h4>`);
     $link = $(`<a id="activity-link" type="button" class="m-1 has-text-dark-red has-text-weight-bold button is-light
                          is-small is-responsive" href="${activity_Obj.url}" target="_blank">TICKET LINK</a>`);
     $remove = $(`<a id="activity-remove" type="button" class="m-1 has-text-dark-red has-text-weight-bold
@@ -130,7 +130,7 @@ function buildActivityCard_Event(activity_Obj) {
     $col_sm_7.append($venue);
     $col_sm_7.append($address);
     $col_sm_7.append($link);
-    $col_sm_7.append($remove);
+    // $col_sm_7.append($remove);
     $card.append($col_sm_7);
 
     $('.activity-list').append($card);
@@ -139,17 +139,17 @@ function buildActivityCard_Event(activity_Obj) {
 function buildActivityCard_Brewery(activity_Obj) {
 
     $div = $(`<div class="col-sm-7 card">`);
-    $name = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-name">${activity_Obj.name}</h4>`);
-    $brewType = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-time">${activity_Obj.brewType}</h4>`);
-    $address = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-address">${activity_Obj.address}</h4>`);
-    $phone = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-address">${activity_Obj.phoneNumber}</h4>`);
+    $name = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-name"><span class="has-text-dark-red">Brewery Name:</span> ${activity_Obj.name}</h4>`);
+    $brewType = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-time"><span class="has-text-dark-red">Type:</span> ${activity_Obj.brewType}</h4>`);
+    $address = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-address"><span class="has-text-dark-red">Address:</span> ${activity_Obj.address}</h4>`);
+    $phone = $(`<h4 class="has-text-weight-bold has-text-white" id="activity-address"><span class="has-text-dark-red">Phone Number:</span> ${activity_Obj.phoneNumber}</h4>`);
     $buttonDiv = $(`<div></div>`);
     $link = $(`<a id="activity-link" type="button" class="m-1 has-text-dark-red has-text-weight-bold button is-light is-small
-                        is-responsive"  href="${activity_Obj.url}" target="_blank">WEBSITE</a>`);
+                        is-responsive"  href="${activity_Obj.url}" target="_blank">BREWERY WEBSITE</a>`);
     $remove = $(`<a id="activity-remove" type="button" class="m-1 has-text-dark-red has-text-weight-bold button is-light is-small
                             is-responsive">REMOVE<span class="oi oi-trash has-text-dark-red m-2 has-background-white"></span></a>`)
     $buttonDiv.append($link);
-    $buttonDiv.append($remove);
+    // $buttonDiv.append($remove);
     $div.append($name);
     $div.append($brewType);
     $div.append($address);
