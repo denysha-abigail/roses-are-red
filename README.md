@@ -12,7 +12,7 @@ Selecting the "Get Started" button on the home screen page will redirect you to 
 
 - Clicking the "Itinerary Page" button located at the top right-hand corner of your screen will redirect you to a detailed outline of all of your added activities.
 
-> Note: Future bug fixes and updates are currently in development. 
+> Note: Bug fixes and updates are currently in development. 
 
 ## Website:
 Visit [Roses are Red](https://denysha-abigail.github.io/roses-are-red/) today to begin planning your date!
