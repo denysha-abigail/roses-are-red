@@ -3,7 +3,7 @@
 ## Beta Version 2.14
 
 ## Features:
-Built with HTML, CSS, Vanilla JavaScript, jQuery, Bulma, Bootstrap, Iconic, and Moment.js, this interactive and responsive front-end date planner utilizes multiple server-side APIs provided by TicketMaster, OpenWeatherMap, and OpenBreweryDB to display event and brewery information based on searched cities for a specific date or range of dates.
+Built with HTML, CSS, Vanilla JavaScript, jQuery, Bulma, Bootstrap, Iconic, and Moment.js, this front-end date planner utilizes multiple server-side APIs provided by TicketMaster, OpenWeatherMap, and OpenBreweryDB to display event and brewery information based on searched cities for a specific date or range of dates.
 
 ## How to Use:
 Selecting the "Get Started" button on the home screen page will redirect you to the Date Builder page where you will be required to select one activity at a time (Event or Breweries) and fill out the required input fields labeled with an asterisk. Once all required fields have been satisified, click the "Search" button for your results to be generated. 
@@ -12,7 +12,7 @@ Selecting the "Get Started" button on the home screen page will redirect you to 
 
 - Clicking the "Itinerary Page" button located at the top right-hand corner of your screen will redirect you to a detailed outline of all of your added activities.
 
-> Note: Clicking the "Remove" button located on each activity card in your Itinerary Page will delete that specific activity from your itinerary list. The triangular danger icon on the right-hand corner of your screen will prompt you to select whether you want to delete the entire current activity for the selected date or range of dates. 
+> Note: Future bug fixes and updates are currently in development. 
 
 ## Website:
 Visit [Roses are Red](https://denysha-abigail.github.io/roses-are-red/) today to begin planning your date!
