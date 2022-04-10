@@ -18,7 +18,7 @@ Selecting the "Get Started" button on the home screen page will redirect you to 
 Visit [Roses are Red](https://denysha-abigail.github.io/roses-are-red/) today to begin planning your date!
 
 ## Preview:
-![screenrecording](Screencastify_gif_here)
+![screenrecording](./assets/images/roses_are_red.gif)
 
 ## Contributors:
 *[Aaron Rones](https://github.com/beimy), [Nicole Sharrock-Hayes](https://github.com/NicoleSharrock), and [Denysha Guerrios-Armaiz](https://github.com/denysha-abigail), 04/2022*
