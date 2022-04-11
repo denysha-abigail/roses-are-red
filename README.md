@@ -10,7 +10,7 @@
 - jQuery
 - Bulma
 - Iconic
-- Moment.js,
+- Moment.js
 
 ## Features:
 This front-end date planner web application utilizes multiple server-side APIs provided by TicketMaster, OpenWeatherMap, and OpenBreweryDB to display event and brewery information based on searched cities for a specific date or range of dates.
@@ -18,7 +18,7 @@ This front-end date planner web application utilizes multiple server-side APIs p
 ## How to Use:
 Selecting the "Get Started" button on the home screen page will redirect you to the Date Builder page where you will be required to select one activity at a time (Event or Breweries) and fill out the required input fields labeled with an asterisk. Once all required fields have been satisified, click the "Search" button for your results to be generated. 
 
-- Once your event or brewery results are displayed, you will have the option of either clicking the website link button to be redirected to the official activity site OR selecting the "Add to Itinerary" button to store your selected activity into the local storage of your computer in order for it to then populate onto your itinerary page.
+- Once your event or brewery results are displayed, you will have the option of either clicking the website link button to be redirected to the official activity site OR selecting the "Add to Itinerary" button to store your selected activity into the local storage of your computer for it to then populate onto your itinerary page.
 
 - Clicking the "Itinerary Page" button located at the top right-hand corner of your screen will redirect you to a detailed outline of all of your added activities.
 
