@@ -31,4 +31,9 @@ Visit [Roses are Red](https://denysha-abigail.github.io/roses-are-red/) today to
 ![screenrecording](./assets/images/roses_are_red.gif)
 
 ## Contributors:
-*[Aaron Rones](https://github.com/beimy), [Nicole Sharrock-Hayes](https://github.com/NicoleSharrock), and [Denysha Guerrios-Armaiz](https://github.com/denysha-abigail), 04/2022*
+
+[Denysha Guerrios-Armaiz](https://github.com/denysha-abigail)
+[Nicole Sharrock-Hayes](https://github.com/NicoleSharrock)
+[Aaron Rones](https://github.com/beimy)
+
+* Roses are Red, 04/2022*
