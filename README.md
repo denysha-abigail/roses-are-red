@@ -32,8 +32,8 @@ Visit [Roses are Red](https://denysha-abigail.github.io/roses-are-red/) today to
 
 ## Contributors:
 
-[Denysha Guerrios-Armaiz](https://github.com/denysha-abigail)
-[Nicole Sharrock-Hayes](https://github.com/NicoleSharrock)
-[Aaron Rones](https://github.com/beimy)
+- [Denysha Guerrios-Armaiz](https://github.com/denysha-abigail)
+- [Nicole Sharrock-Hayes](https://github.com/NicoleSharrock)
+- [Aaron Rones](https://github.com/beimy)
 
-* Roses are Red, 04/2022*
+*Roses are Red, 04/2022*
